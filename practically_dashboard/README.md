@@ -5,7 +5,7 @@ git clone https://github.com/dvlprroshan/smallprojects.git
 ```
 
 ```bash
-cd practically_dashboard
+cd smallprojects/practically_dashboard
 ```
 
 ```bash
